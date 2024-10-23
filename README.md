@@ -18,6 +18,7 @@ This project was completed as an assignment for the course [Software Engineering
 
 * src: folder containing python files;
   * table.py: script to tokenize, parse, and compile programs;
+  * run_tests.py: script to run tests;
 * tests: folder containing two sub-folders;
   * demo: folder containing demo.txt example file;
   * test_instances: folders containing several (correct) test input files;
@@ -27,7 +28,15 @@ This project was completed as an assignment for the course [Software Engineering
 
 ### Prerequisites
 
+`pip install -r requirements.txt`
+
+### Installation
+
+`git clone https://github.com/MateiCosa/sat-solver.git`
+
 ### Usage
+
+`python3 src/table.py [input_file]`
 
 ### Example
 
