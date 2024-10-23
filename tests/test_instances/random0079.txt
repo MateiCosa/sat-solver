@@ -1,0 +1,6 @@
+var Gqj PlZ QPs hAm zzJ;
+zBN = ((PlZ and (QPs and QPs and QPs) and PlZ) or (PlZ or QPs) or (hAm or (hAm 
+and hAm and PlZ and zzJ)) or hAm) or (not PlZ) or (hAm and ((not hAm) or hAm or 
+PlZ or zzJ) and ((QPs and Gqj and zzJ and PlZ) and (not zzJ))) or zzJ;
+show zBN;
+

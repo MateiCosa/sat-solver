@@ -1,0 +1,6 @@
+var FxA rqt sfN rdB oad;
+EFq = rdB or rdB or oad or (oad and (not rdB) and ((oad and FxA and sfN) and 
+FxA and (not rqt) and (sfN or FxA)) and (rqt and rdB));
+rfc = not oad;
+show_ones EFq rfc;
+

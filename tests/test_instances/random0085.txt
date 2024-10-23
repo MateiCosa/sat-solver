@@ -1,0 +1,21 @@
+var eft ygc;
+rln = eft and (not eft);
+wRD = rln and eft and (not (rln or (not rln) or ygc));
+Gdp = eft and (not ygc);
+cjQ = not ygc;
+show cjQ wRD cjQ;
+var ifx JNz;
+rJy = eft or JNz or (JNz or (ifx and (eft and False) and JNz) or ygc or ygc) or 
+(ygc or ifx or Gdp);
+zYx = eft or (rln or JNz or rln or (JNz and (JNz or eft or eft or ifx) and (wRD 
+or eft) and ifx)) or ygc;
+show wRD zYx rJy rJy rln;
+var KCD ftG pKs jjO;
+show_ones zYx Gdp;
+JP_ = (not ifx) or JNz;
+znt = not (wRD or jjO or (JNz and (Gdp and pKs) and (eft or jjO)) or (wRD or 
+ftG or ygc or (not ifx)));
+jDr = (not jjO) or (ftG or (cjQ or wRD));
+ffD = False and ftG and (not (zYx or (not JP_))) and (not (KCD or (not eft)));
+OIa = (KCD or JP_ or ifx or (znt or zYx)) or znt;
+

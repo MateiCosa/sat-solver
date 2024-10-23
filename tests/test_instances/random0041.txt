@@ -1,0 +1,13 @@
+var Mrm QEK UyT;
+pan = (not QEK) and UyT;
+show_ones pan;
+var WZj FWB;
+Lya = not (Mrm or ((pan and pan and pan) or pan or pan or (FWB or FWB or Mrm)));
+show pan Lya;
+var lvI zgb;
+sfC = not Mrm;
+lkj = Lya or sfC or Mrm;
+SDA = ((not sfC) and lkj and sfC) or ((WZj and (QEK and FWB and UyT and Mrm) 
+and (FWB or Lya) and lvI) or (not (not lkj)) or Lya);
+show SDA Lya lkj lkj;
+

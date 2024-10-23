@@ -1,0 +1,7 @@
+var faH Iuh JbV _Vi MPu;
+Tnc = not (not ((not False) or Iuh or Iuh or (faH or _Vi or MPu or faH)));
+wNl = not ((not Tnc) or (MPu or Tnc or Tnc or Tnc));
+fzL = wNl and JbV and ((Iuh and (not Iuh) and (Iuh or Tnc) and (JbV and False 
+and Tnc)) and (not Iuh));
+show Tnc wNl fzL;
+

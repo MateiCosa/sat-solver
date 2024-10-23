@@ -1,0 +1,7 @@
+var GXy BSd inc;
+avh = ((GXy and BSd and BSd and (GXy and BSd)) and GXy and BSd and (BSd or (GXy 
+or BSd or True) or GXy or BSd)) or ((not GXy) and BSd and (not BSd) and (not 
+GXy)) or False;
+ZQS = not avh;
+show avh ZQS;
+

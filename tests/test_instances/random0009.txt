@@ -1,0 +1,15 @@
+var fWg koe TCI xsY usO;
+rNk = xsY or TCI;
+eZX = TCI or ((not (not rNk)) and (fWg or koe or TCI) and TCI and (not (usO and 
+rNk and fWg)));
+show eZX eZX;
+var zUQ tIQ;
+vbS = TCI and (True and xsY) and (not (rNk and (eZX or usO)));
+GuU = xsY and (not vbS) and usO and zUQ;
+SEC = (vbS and ((vbS or zUQ or usO) or usO or usO or eZX) and GuU) or (not usO);
+show vbS eZX SEC vbS;
+var dhY oax gpE cJO KKq;
+nbw = (False or tIQ or oax) and zUQ;
+LdL = (rNk or zUQ) and cJO and (not nbw);
+show GuU LdL eZX nbw vbS;
+

@@ -1,0 +1,24 @@
+var haq TBx YBJ PqC;
+ggs = False or YBJ or PqC or (False and PqC and PqC);
+ltD = ggs and ((not haq) and (PqC and ggs)) and ggs and YBJ;
+ZXT = ggs or ((ggs and YBJ and (not YBJ)) and (PqC and (ltD or YBJ or PqC) and 
+ltD)) or PqC or (PqC or (TBx and haq and PqC));
+show ggs ltD ZXT;
+var xon NFM Qbn LeU;
+TZA = (YBJ and ggs and Qbn and ((ZXT or PqC) or (ltD and LeU and LeU) or ggs or 
+False)) or YBJ or (((TBx and xon) or PqC or ggs) and (Qbn or ZXT or (not PqC) 
+or (TBx and ltD))) or xon;
+show_ones ZXT ltD TZA;
+var Scg Pej qFt bGy wbb;
+XgN = (qFt and ltD) or (TBx and TBx) or (YBJ or (True and (not Scg) and ltD) or 
+TBx) or ((Qbn and ZXT) and ((ggs or TZA or LeU or Pej) and Scg and (True and 
+Pej and Qbn and Qbn) and ZXT));
+Bbu = qFt or False or PqC or ZXT;
+dVk = (False or TBx or ((Pej and TBx and TZA and TZA) and (NFM or XgN or wbb or 
+bGy) and (qFt or ggs or ZXT or Pej) and xon) or ((XgN and ltD) and Bbu and TZA 
+and TBx)) or NFM;
+FAq = ggs and (YBJ and (PqC or (Qbn or XgN))) and (((wbb or ZXT) or (ltD or 
+haq)) or ((ltD or Bbu or True or Pej) and xon and Pej and TBx) or (not LeU)) 
+and Pej;
+show XgN dVk dVk FAq ZXT;
+

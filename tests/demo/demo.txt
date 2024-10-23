@@ -1,0 +1,6 @@
+#We declare two variables:  x and y
+        var x y;
+# We assign (x xor y) to z
+z =     (x or y) and (not (x and y));
+# We show the truth table of z
+show z;

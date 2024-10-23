@@ -1,0 +1,5 @@
+var kDS zQF awk dX_ DsK;
+rFG = True and dX_ and dX_;
+yMG = not (((rFG or dX_ or dX_ or DsK) and kDS) or rFG or (not rFG));
+show rFG yMG;
+

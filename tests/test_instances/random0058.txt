@@ -1,0 +1,14 @@
+var iMH dAe;
+AVN = iMH or dAe or iMH;
+show_ones AVN;
+var hAM jTn Csl aTh;
+E_M = not (((AVN or True or iMH or hAM) or Csl or True) and AVN and AVN and 
+iMH);
+WFq = dAe or ((E_M or (Csl and aTh and AVN) or (hAM or hAM or hAM or dAe) or 
+dAe) or (iMH and E_M and AVN) or ((not AVN) and (Csl or aTh)) or ((aTh and dAe 
+and AVN and dAe) or AVN or (jTn or dAe or True or E_M))) or Csl or (E_M and 
+(AVN and AVN and (AVN and dAe and jTn and aTh)) and iMH);
+hIK = E_M or (AVN or aTh or ((AVN and hAM and WFq and jTn) or (E_M or aTh or 
+iMH)) or (jTn or (AVN or AVN or AVN or hAM) or WFq or AVN));
+show WFq hIK;
+

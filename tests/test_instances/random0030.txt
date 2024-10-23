@@ -1,0 +1,15 @@
+var vrw TZd txj AVJ hWo;
+qzu = hWo or txj;
+gaF = (qzu and ((False and AVJ and qzu) or (not AVJ) or qzu) and ((vrw or qzu) 
+or qzu) and hWo) or hWo or (qzu and AVJ);
+show qzu gaF;
+var ggE ywy rSm IbE;
+GeD = vrw and (not (gaF or (hWo or qzu or gaF) or TZd));
+show qzu gaF GeD;
+var vkL yVm HbA JFV;
+DC_ = (not vkL) and GeD and (gaF or (qzu and (vrw or hWo or IbE) and (ggE or 
+gaF or qzu or vkL) and (ywy or IbE)) or GeD);
+show DC_ DC_ qzu;
+NRX = not qzu;
+ykf = GeD and HbA;
+

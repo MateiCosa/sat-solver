@@ -1,0 +1,7 @@
+var VwI Gpy;
+Uwj = ((Gpy or Gpy or (VwI or Gpy or Gpy or Gpy)) or (Gpy or (VwI or Gpy)) or 
+VwI) or (not Gpy) or (not (Gpy and Gpy));
+lYH = not Uwj;
+AVs = (Gpy and Gpy) and Uwj;
+show Uwj lYH AVs;
+

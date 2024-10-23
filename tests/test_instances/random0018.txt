@@ -1,0 +1,19 @@
+var Nsr XFX taM;
+zwh = XFX or (taM and ((Nsr and taM and taM and taM) or taM or XFX) and (XFX or 
+(not Nsr) or Nsr) and taM) or ((Nsr and XFX and taM and taM) and XFX and (Nsr 
+and (XFX or taM) and Nsr));
+show zwh;
+var GRS BVp hFi LsX;
+Gcx = BVp or zwh or zwh;
+OuA = not XFX;
+mNR = not (Gcx or (not (BVp and BVp)));
+nKa = (OuA or LsX or taM or (mNR and (not OuA) and True)) or (hFi or Gcx or 
+((not LsX) or XFX or Nsr)) or OuA or BVp;
+show zwh Gcx OuA mNR nKa;
+var kmz raV GhA;
+show zwh Gcx;
+cua = nKa and (((LsX or OuA) or (not taM) or nKa or (hFi and XFX and raV and 
+Nsr)) or GhA) and raV and mNR;
+DZV = Gcx and (OuA or GRS or GhA) and GhA and OuA;
+APR = BVp and mNR and Gcx and hFi;
+

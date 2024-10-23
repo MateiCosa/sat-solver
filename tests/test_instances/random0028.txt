@@ -1,0 +1,13 @@
+var Glu hcn Eyd aLJ;
+jXy = aLJ or ((not (hcn or aLJ)) and (not (hcn or Glu or True or Eyd)) and Eyd) 
+or Glu or Glu;
+xjO = jXy and Glu and jXy and (not jXy);
+aSw = ((not (not hcn)) or (aLJ and xjO and (Glu or xjO))) and ((not (jXy and 
+aLJ and xjO and jXy)) and (hcn and jXy) and Eyd);
+show aSw xjO;
+var fGB DKT;
+B_I = (not (not Eyd)) and xjO;
+OPX = not (not aSw);
+BzM = xjO or aSw or jXy;
+show aSw B_I BzM;
+

@@ -1,0 +1,17 @@
+var vXg ejW Ker;
+rAk = ejW and (False or vXg) and (ejW and (Ker or Ker) and (True or (not Ker) 
+or ejW or vXg));
+show rAk;
+var NgG AQx;
+TFV = (Ker and (rAk and (ejW and NgG) and (not vXg) and AQx)) or vXg;
+show rAk TFV;
+var czD ojy;
+EHn = not NgG;
+KQo = not (not EHn);
+PuZ = ojy and czD and TFV;
+DxK = (Ker or (vXg or EHn) or PuZ or (NgG and (True and Ker))) and (False and 
+(not (not czD)) and Ker) and KQo and ((Ker and ojy and (not vXg) and (ojy and 
+vXg)) and (not (ejW or ojy or ojy or rAk)) and (NgG or ojy or (not czD)) and 
+((TFV or vXg or KQo) and (not EHn)));
+show rAk EHn DxK;
+

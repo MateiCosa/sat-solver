@@ -1,0 +1,62 @@
+var x29 x28 x27 x26 x25 x24 x23 x22 x21 x20 x19 x18 x17 x16 x15 x14 x13 x12 x11 
+x10 x9 x8 x7 x6 x5 x4 x3 x2 x1 x0;
+f1 = x20 or x23;
+f0 = (not x14) or (not x20);
+z = (x5 or ((not x20) and (not x29))) and x0 and (x19 or ((not x10) and (not 
+x3))) and x21 and x10 and ((not x14) or ((not x17) and (x16 or x25) and (x5 or 
+x6))) and x4 and x20 and (x2 or (x0 and x5 and x19 and (not x21) and (x16 or 
+(not x22)))) and x3 and x17 and ((not x26) or (((not x0) or (x21 and (x3 or 
+x5))) and (x4 or (not x11) or x23 or x29) and ((not x14) or x19))) and x1 and 
+x13 and x26 and x9 and ((not x24) or (x17 and x13 and x9 and x10 and ((not x6) 
+or (not x10)) and (x5 or (not x14)))) and ((not x5) or ((x28 or (((not x6) or 
+x21) and (x15 or x26))) and x4 and (x9 or x22) and ((not x11) or (not x20) or 
+(not x22)) and x10)) and (((not x6) and ((x5 or (x12 and (x10 or x20))) and 
+(x21 or ((x2 or x14 or x17) and x13)) and (x0 or (x10 and x12)) and x1 and (x24 
+or (not x29)) and (x18 or (not x22)) and x3 and (not x14) and ((not x9) or x23) 
+and ((not x3) or x16 or (not x17) or x26))) or x11) and ((not x4) or ((x26 or 
+(x12 and (x0 or (not x20)))) and (x5 or (x9 and ((not x2) or x21 or x22) and 
+(x2 or (not x17)))) and ((not x21) or ((x6 or x17 or x28) and (x10 or x13 or 
+x14))) and (x21 or x24) and (x11 or (not x22)))) and ((not x16) or ((x24 or 
+((not x21) and (x0 or x9))) and ((not x9) or ((x20 or x25) and (not x14))) and 
+(x10 or x18 or (not x22)) and (x1 or x15) and (not x29) and (not x6) and ((not 
+x3) or (not x11) or (not x26)) and x11 and ((not x0) or x7 or x26))) and ((not 
+x25) or (x5 and x0 and (x11 or (not x22) or (not x24)) and (x15 or (not x19)) 
+and x6 and ((not x21) or x23) and (not x2) and ((not x4) or x13) and f0)) and 
+((not x15) or ((x3 or ((x0 or x5) and (x7 or x19))) and x26 and x16 and (not 
+x14) and ((not x2) or x11) and (not x22) and ((not x1) or x21 or (not x26)) and 
+x10 and ((not x4) or (not x9)) and ((not x13) or x29) and (x6 or x14) and (x12 
+or x13 or x28))) and ((not x12) or ((x14 or ((x3 or x8 or (not x25)) and x26)) 
+and (x2 or ((not x9) and (x18 or x19 or x29))) and x24 and ((not x2) or ((not 
+x4) and (x5 or x9))) and ((not x29) or ((x1 or (not x20)) and ((not x6) or (not 
+x24) or (not x26)))) and ((not x21) or x22) and f1 and x11 and (not x29))) and 
+((not x27) or (x24 and (x18 or ((x4 or x20) and ((not x0) or x3))) and (x1 or 
+(((not x5) or (not x11)) and x26)) and x25 and (x5 or ((x9 or x12 or (not x13)) 
+and x2 and x21 and (x1 or (not x12) or (not x20)))) and (x2 or (not x14) or 
+x21) and (not x13) and x28 and x15)) and ((not x23) or ((x11 or (((not x3) or 
+(not x6) or x10) and (not x15))) and x24 and x17 and (x15 or x18) and x20 and 
+(not x19) and (not x29) and ((not x2) or (not x10)) and (x19 or x21) and ((not 
+x9) or x16 or (not x29)) and (not x16) and ((not x0) or (not x5) or (not x21)) 
+and x2)) and ((not x28) or ((x20 or (x7 and (not x1))) and (x17 or ((not x22) 
+and (not x16))) and (x18 or (x22 and (x4 or x23))) and ((not x2) or (x3 and (x0 
+or x26))) and (x11 or ((not x14) and (x7 or (not x22)) and x16)) and x12 and 
+((not x5) or x26) and x19 and ((not x12) or (not x14)) and (x8 or x14 or (not 
+x21)) and x29 and x6)) and ((not x7) or ((x19 or (f1 and (x3 or x16))) and 
+((not x2) or ((not x16) and (not x22) and ((not x4) or x11))) and ((not x6) or 
+(x20 and (x3 or x4 or x27) and (not x9))) and (x2 or x8) and x14 and (x0 or 
+x15) and ((not x5) or x21) and x13 and x22 and (x17 or (not x26)) and x3 and 
+((not x14) or (not x17)) and x4 and (x16 or (not x27)))) and ((not x8) or (x19 
+and x7 and (x11 or ((not x21) and x13)) and (x4 or (((not x14) or x18) and (x15 
+or x24) and x19)) and x21 and (not x14) and (not x23) and (not x16) and (x10 or 
+(not x22)) and (x5 or (not x11) or (not x28)) and ((not x9) or x20 or (not x24) 
+or (not x25)) and ((not x6) or (not x14)) and (x0 or x24) and ((not x0) or (not 
+x13)) and (x3 or x26))) and ((not x18) or ((x7 or (x16 and ((not x6) or x19))) 
+and ((not x23) or (((not x10) or x28 or (not x29)) and (x1 or (not x2) or 
+x11))) and ((not x12) or (x13 and x26)) and x12 and ((not x25) or ((not x13) 
+and (x9 or (not x19)))) and ((not x21) or ((not x24) and f0 and x28)) and x17 
+and x19 and x4 and x5 and (x8 or (not x14)) and (x3 or x10) and (not x9) and 
+((not x7) or x24 or (not x28)) and x23)) and (not x23) and (not x6) and (not 
+x22) and (not x15) and (not x29) and (not x12) and ((not x2) or (not x6) or 
+(not x13) or x29) and (not x28) and (not x28) and (not x15) and (not x12) and 
+(not x16) and (not x23) and (not x14) and (not x28) and (not x6) and (not x12);
+show_ones z;
+

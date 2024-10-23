@@ -1,0 +1,7 @@
+var Hlo Csm tQs Otx;
+mVd = tQs or Csm;
+_Q_ = not (Hlo and ((not mVd) and (mVd or mVd) and mVd and mVd));
+gQK = Hlo or (_Q_ and (not (_Q_ or tQs or mVd or mVd)) and _Q_ and (tQs or Hlo 
+or (mVd or Otx or Otx) or (Otx and Otx and Csm))) or (not tQs);
+show mVd _Q_ gQK;
+

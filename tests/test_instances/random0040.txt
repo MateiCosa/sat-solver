@@ -1,0 +1,5 @@
+var POu HSu FxW xff llb;
+sjW = FxW or HSu or FxW;
+lTm = xff or xff or POu;
+show_ones sjW lTm;
+

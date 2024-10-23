@@ -1,0 +1,20 @@
+var tmM HFF phK;
+MCG = tmM or tmM or (((tmM or HFF or tmM) and HFF and HFF) or ((tmM or HFF) and 
+(tmM and HFF and phK and phK)) or phK or (not (not HFF))) or (((HFF or HFF or 
+phK or tmM) and phK and HFF and (False or HFF)) and HFF and ((phK and phK and 
+HFF and True) and (phK or True) and (phK and phK) and True));
+Cds = phK or (MCG or (not (HFF and phK)) or tmM or phK);
+kHa = (((not phK) or MCG) and (not (not phK)) and (MCG and MCG and tmM and 
+phK)) and True and (not phK) and (not ((Cds or tmM or Cds) and HFF));
+show MCG Cds kHa;
+var gev wKG;
+Hae = (kHa or HFF or (kHa and Cds and (not MCG))) or gev or wKG or wKG;
+show Hae kHa;
+var ne_ ACU GBF oas eKO;
+TgO = gev and gev and (False or ((kHa and MCG and kHa) and MCG and (True or kHa 
+or Hae or Cds) and phK) or (not (not MCG)) or (not phK)) and MCG;
+cXt = wKG or Cds or Hae;
+show cXt MCG;
+PeA = not ((not MCG) and oas and (tmM and (not Cds) and ACU));
+HoE = not (((Hae and TgO and MCG) or (not HFF)) or tmM);
+

@@ -1,0 +1,5 @@
+var PvL jRA dXo;
+cTX = jRA or (not PvL);
+PPX = cTX or jRA;
+show cTX PPX;
+

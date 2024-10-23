@@ -1,0 +1,7 @@
+var PVG iee;
+VDB = iee or iee;
+HXl = PVG or iee;
+zEG = (((HXl and iee) and HXl and (iee and iee and VDB) and iee) or PVG) or 
+((not iee) and (PVG and iee and iee and VDB) and iee and iee);
+show VDB HXl zEG;
+

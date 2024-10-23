@@ -1,0 +1,7 @@
+var xtM _ss SaV;
+RsP = not SaV;
+Zpi = RsP and (_ss or ((True and _ss and RsP) or (RsP and _ss) or (not SaV))) 
+and _ss and xtM;
+gfE = not _ss;
+show gfE RsP;
+

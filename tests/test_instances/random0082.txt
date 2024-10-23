@@ -1,0 +1,12 @@
+var lnP cOS BEy iGW;
+QSt = not (not ((lnP and iGW) or iGW));
+CWZ = not (QSt and (QSt or iGW or lnP));
+show QSt CWZ;
+var kEO aNd;
+iTO = QSt or cOS;
+DCL = (((not iGW) or CWZ) and aNd and (kEO and (not CWZ) and BEy)) or QSt or 
+iGW;
+bWE = (QSt or lnP or kEO or BEy) or (not ((not cOS) or (cOS and kEO) or (not 
+CWZ) or kEO)) or QSt;
+show_ones QSt iTO bWE;
+

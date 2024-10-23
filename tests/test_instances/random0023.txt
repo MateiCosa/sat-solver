@@ -1,0 +1,13 @@
+var oaO HdV Oih sru d_I;
+WQw = oaO or (oaO and HdV and HdV and HdV) or (not oaO) or ((HdV or (not sru) 
+or oaO) and (Oih and (HdV or sru or sru or HdV)) and d_I);
+PRV = WQw and sru and ((WQw and HdV) and ((not d_I) or (oaO or WQw or sru or 
+WQw) or (True and Oih and sru) or (oaO and Oih and WQw)) and HdV) and (((not 
+WQw) and (Oih and WQw) and WQw) or d_I or WQw or WQw);
+emv = not (d_I or Oih or PRV or (not (HdV and d_I and PRV)));
+hhY = oaO or WQw or d_I or sru;
+show_ones WQw PRV hhY;
+var JFT Enp cep qbS LCk;
+diB = not (hhY and JFT and hhY and WQw);
+show PRV hhY diB WQw;
+

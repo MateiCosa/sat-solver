@@ -1,0 +1,13 @@
+var aMO Jkb;
+Nmu = not (((not aMO) or Jkb or (Jkb and Jkb and aMO) or (Jkb or aMO or Jkb or 
+aMO)) or True or aMO or aMO);
+daP = Nmu or (Nmu and Nmu and aMO);
+DtC = (aMO or (Jkb or (Jkb and Nmu and daP and Nmu) or aMO or aMO) or (aMO and 
+(Jkb and daP and aMO)) or (aMO or (Nmu and Jkb and Jkb and Jkb) or (not Nmu))) 
+and (Jkb and (aMO or aMO) and Jkb);
+show_ones Nmu daP DtC;
+var eyp qRz Bx_ KrH kYw;
+show DtC DtC;
+PIK = Nmu and ((qRz and Bx_) and kYw and DtC and ((KrH and Bx_ and qRz) and 
+False and (Jkb or aMO))) and aMO and DtC;
+

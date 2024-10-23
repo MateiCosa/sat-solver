@@ -1,0 +1,7 @@
+var eTj DiZ taa KCx;
+cxy = taa and (KCx and (DiZ or eTj or (taa and KCx and KCx)) and (DiZ or (taa 
+and eTj and eTj) or eTj or (DiZ and DiZ and True and taa)));
+hpQ = not (False or (eTj or cxy));
+mzv = ((eTj or (hpQ or True or hpQ) or DiZ) and KCx) and DiZ;
+show_ones cxy hpQ mzv;
+

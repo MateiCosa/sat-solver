@@ -1,0 +1,13 @@
+var LXT ouK pue Tyd;
+Edk = not (False or LXT or (not LXT));
+qJN = ouK and (not (Edk and Tyd));
+show_ones Edk qJN;
+var Wir Elv;
+SKu = (not Edk) or Elv;
+zsb = Wir and ouK and Wir;
+show qJN Edk zsb;
+ZcT = (((not Tyd) or ouK or (Edk or zsb or Wir or ouK)) or (Elv and Elv) or 
+qJN) or ouK;
+ZUQ = True and (ZcT and ZcT and (SKu or (Elv and zsb and ZcT and Edk) or ZcT or 
+qJN) and (LXT or (ZcT or Wir) or (Edk and Elv) or (not Tyd))) and ZcT and ouK;
+

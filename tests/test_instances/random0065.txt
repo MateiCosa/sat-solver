@@ -1,0 +1,7 @@
+var ZkD bSF WPn QLd;
+wcY = ((QLd or QLd or WPn) and (QLd and (ZkD and WPn and WPn) and (QLd and QLd) 
+and (bSF or WPn or bSF or QLd)) and ZkD) or WPn or ZkD or ZkD;
+BQk = (bSF or ((not bSF) and (not bSF) and (QLd and wcY and bSF) and (wcY and 
+ZkD))) or (((not WPn) and (not wcY) and QLd and QLd) or wcY or wcY or wcY);
+show wcY BQk;
+

@@ -1,0 +1,16 @@
+var Wwz kZn Psf lFf qVk;
+Wok = lFf and Psf and (((lFf and qVk) and (lFf and qVk) and (Psf or lFf) and 
+qVk) or (False and (Wwz and qVk and Wwz) and (Wwz or lFf or kZn or kZn)) or 
+((kZn and Wwz and Psf) and (Psf and qVk and True) and (Psf and qVk)) or (kZn 
+and (not lFf) and lFf and (qVk and Psf))) and (kZn or (kZn or (lFf and True and 
+Psf and kZn)) or Wwz);
+pSL = not (((Psf or Wok or lFf or Wok) and (qVk and kZn and Wok and Wok)) and 
+kZn and Wok);
+show_ones Wok pSL;
+var TdL PbA pGy jGq;
+GaY = pSL and (not PbA) and pSL;
+aUl = lFf and Wok;
+DQO = ((GaY or (not pSL)) and (pGy and pSL and Wok) and (PbA and (Wok or GaY) 
+and pGy) and (pSL and lFf)) or Wok;
+show GaY DQO;
+

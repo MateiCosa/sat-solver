@@ -1,0 +1,7 @@
+var EMP yyW bOA Ysh gWP;
+WoP = Ysh or ((EMP and (bOA and gWP and Ysh and yyW)) and ((yyW or False) or 
+(not Ysh) or EMP or False) and gWP);
+Eks = (((not EMP) or (WoP or WoP or bOA or WoP)) or False or gWP or gWP) and 
+Ysh;
+show WoP Eks;
+

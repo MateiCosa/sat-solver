@@ -1,0 +1,8 @@
+var EaB Wxo QPX ACo;
+RrR = not (True and EaB and EaB and Wxo);
+SKS = RrR or (((EaB and QPX and ACo) and RrR and RrR) or RrR) or EaB;
+show_ones RrR SKS;
+var HgD CX_ ANn;
+show SKS RrR;
+nkd = (not (not (CX_ or RrR or RrR))) and (not RrR);
+

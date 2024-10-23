@@ -1,0 +1,8 @@
+var QsR CbG;
+TFJ = not (((QsR and QsR and CbG) and (QsR and QsR) and QsR and (QsR and CbG 
+and QsR and CbG)) or CbG or True or CbG);
+n_S = (not TFJ) or CbG;
+fkG = CbG and (not QsR);
+a_i = QsR or n_S;
+show_ones fkG fkG a_i;
+

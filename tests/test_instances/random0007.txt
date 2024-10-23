@@ -1,0 +1,14 @@
+var hCk ICU Ifz nlk;
+Tvx = not False;
+show Tvx;
+var DRS qPe;
+tOl = (True or Tvx) and ICU and (ICU and (Tvx and Tvx and Tvx and (DRS or nlk 
+or Tvx or Tvx)) and Tvx and qPe);
+show Tvx tOl;
+var _lP GKi xgV IRQ AjL;
+TqK = not DRS;
+Rcv = GKi and (ICU and (not (not Tvx)));
+show Rcv Tvx Rcv tOl;
+XEL = not (not (tOl and (tOl and DRS and qPe and TqK) and (TqK or _lP or Tvx or 
+GKi) and Rcv));
+

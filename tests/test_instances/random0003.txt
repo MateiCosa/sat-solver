@@ -1,0 +1,5 @@
+var Ppv iuF gZx Tro;
+Ewr = gZx and Tro and (Tro or Tro);
+swV = ((not Ewr) and (Ppv or Ppv) and iuF) and (gZx and gZx);
+show Ewr swV;
+

@@ -1,0 +1,7 @@
+var KRf Agu ebj aGo;
+RuF = not True;
+Zar = aGo or KRf or RuF or (((KRf or RuF or RuF) and aGo and (RuF and KRf and 
+ebj)) or Agu or RuF);
+IZo = RuF or RuF or Zar or (Zar and (not Agu));
+show RuF Zar IZo;
+

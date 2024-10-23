@@ -1,0 +1,153 @@
+var x9 x8 x7 x6 x5 x4 x3 x2 x1 x0;
+f20 = x0 or x5;
+f19 = x4 or x6;
+f18 = x1 or x4;
+f17 = x5 or x6 or x9;
+f16 = (not x3) or x9;
+f15 = x2 or (not x3);
+f14 = (not x1) or x3;
+f13 = (not x2) or x6;
+f12 = x1 or x6 or x9;
+f11 = x5 or x6 or (not x7);
+f10 = (not x2) or (not x3);
+f9 = x3 or x6;
+f8 = x4 or x5;
+f7 = x3 or (not x5) or (not x7) or x9;
+f6 = (not x1) or x9;
+f5 = (not x5) and x5;
+f4 = (not x4) or x5;
+f3 = x4 and (not x4);
+f21 = x7 or f3;
+f2 = x5 or x7;
+f1 = (not x4) or (not x5);
+f0 = (not x1) or (not x4);
+z = (x9 or ((x5 or (x6 or ((x1 or (((not x2) or x8) and (x0 or x2 or x3 or x4 
+or x7))) and (x0 or (not x1) or x2 or (not x4) or x7 or (not x8))))) and (x3 or 
+(not x8)))) and ((not x3) or (x0 or (x2 or (x5 or (((not x8) or (x7 or (x9 or 
+(((not x1) or x6) and f18)))) and ((not x4) or (x8 or (f12 and x7)))))))) and 
+((not x7) or ((x3 or (((not x1) or x2 or x5) and (not x4))) and x6 and ((not 
+x2) or ((x0 or (((not x1) or (x5 or ((not x4) and ((not x3) or x4 or x6 or 
+x9)))) and (x3 or x4 or x6 or x9))) and f12)))) and ((not x6) or (((not x4) or 
+(x0 or (((not x2) or (x8 or (x9 or (f2 and (x1 or x3 or (not x7)))))) and (x1 
+or x3 or x5 or x7 or x8 or x9)))) and ((not x8) or ((x1 or x9) and ((not x3) or 
+(x5 or (((not x2) or (x7 or ((x1 or x4 or x9) and f0))) and ((not x7) or (x9 or 
+((x1 or (x4 or (x2 and x0))) and ((not x1) or (not x2) or (not x4))))) and 
+((not x1) or x2 or (not x4) or x7 or x9)))))) and (x0 or x1 or x2 or (not x3) 
+or x5 or x7 or x8 or x9) and (not x4))) and ((not x5) or (((not x1) or (x0 or 
+(x2 or ((x3 or x6 or x7 or x8 or x9) and ((not x3) or x4 or (not x6) or (not 
+x8)))))) and ((not x2) or (x0 or (x3 or (x6 or ((x1 or (x4 or ((x8 or (x7 and 
+x9)) and ((not x8) or x9)))) and ((not x1) or x7 or (not x8) or x9)))))) and 
+((not x4) or (x7 or (((not x1) or (x0 or (x2 or (x3 or (x6 or (x8 and x9)))))) 
+and ((not x8) or (((not x3) or (x1 or (x9 or ((x0 or x2) and f13)))) and (x0 or 
+x2 or x3 or x6 or x9))) and ((not x6) or ((x0 or ((x1 or ((x9 or (f10 and (x2 
+or x3))) and (x2 or x3 or (not x8)))) and ((not x1) or (not x3) or x8 or x9))) 
+and x2))))) and ((not x7) or ((x2 or ((x0 or (x4 or (x9 or (((not x3) or x6 or 
+(not x8)) and (x1 or x3 or x8))))) and ((not x4) or (x9 or ((x0 or ((x1 or (not 
+x3) or (not x8)) and ((not x1) or x3 or x6))) and (x1 or x3 or x6 or x8)))))) 
+and ((not x2) or ((x0 or ((x8 or ((x9 or ((x3 or ((x1 or (not x4)) and f19)) 
+and ((not x1) or x4 or x6))) and (x1 or (not x3) or x4 or x6))) and ((not x1) 
+or x3 or x4 or (not x8) or x9))) and (x3 or (not x4) or x6 or x8 or x9))) and 
+((not x6) or ((x0 or (x8 or ((x9 or ((x2 or (f0 and f18)) and (x1 or x3 or 
+x4))) and (x1 or (not x2) or x3 or x4)))) and ((not x8) or ((x4 or (x9 or ((x0 
+or ((x1 or (not x3)) and f14)) and (x1 or (not x2) or x3)))) and ((not x4) or 
+(x3 or ((x1 or ((x2 or (x0 and x9)) and ((not x2) or x9))) and (x0 or (not x2) 
+or x9)))))))) and x1)) and (x2 or x3 or x6 or x7 or (not x8) or x9))) and ((not 
+x9) or (((not x3) or (x4 or (x6 or (x8 or (((not x5) or (x2 or (x7 or (x0 and 
+x1)))) and (x0 or x1 or (not x2) or (not x7))))))) and ((not x4) or (((not x1) 
+or (x2 or (((not x5) or (x3 or (x6 or (x8 or (x0 and (not x7)))))) and f11))) 
+and ((not x2) or ((x6 or ((x5 or (x7 or (((not x3) or x8) and (x0 or (not 
+x1))))) and ((not x7) or (x3 or (((not x5) or (x8 or (x1 and x0))) and (x0 or 
+x1 or x5)))))) and (x0 or (not x1) or x3 or x5 or x7 or x8))) and (x1 or x2 or 
+x3 or x5 or x6 or x7 or x8))) and ((not x8) or ((x0 or ((x2 or ((x4 or (x7 or 
+(((not x1) or x5 or x6) and (x1 or (not x3) or (not x5))))) and (x1 or x3 or 
+(not x4) or x5 or x6))) and (x3 or (not x4) or (not x5) or x6 or x7))) and 
+((not x2) or (x6 or (((not x3) or (x4 or (x7 or (f20 and ((not x1) or (not 
+x5)))))) and (x1 or x3 or (not x4) or x5 or x7) and (not x4)))) and ((not x7) 
+or ((x3 or ((x1 or (x4 or (((not x5) or (f13 and x2)) and (x2 or x5 or x6)))) 
+and (x0 or (not x1) or x2 or (not x4) or x6))) and ((not x3) or ((x0 or ((x1 or 
+(x4 or (x6 or (x5 and (not x2))))) and f1)) and ((not x1) or (x6 or ((x2 or (f1 
+and (x0 or x4))) and ((not x2) or (f1 and f8))))))))))) and ((not x6) or ((x5 
+or ((x0 or (x3 or ((x1 or (x7 or ((x8 or (x2 and (not x2))) and (x4 or (not 
+x8))))) and ((not x1) or x2 or (not x4) or (not x8))))) and ((not x4) or x8))) 
+and ((not x5) or (((not x4) or ((x0 or (not x1) or x3 or x7 or x8) and x2)) and 
+((not x8) or (x0 or (x7 or ((x2 or (f0 and (x3 or x4))) and ((not x2) or (x3 or 
+f3)))))))) and ((not x3) or (((not x5) or ((not x8) or (x1 or (x2 or f21)))) 
+and (x0 or ((x5 or ((x1 or (not x2) or (not x4) or (not x8)) and ((not x1) or 
+x2 or x4 or x8))) and (x7 or (((not x1) or (x2 or ((x5 or (not x8)) and f1))) 
+and (x1 or ((x5 or (((not x4) or (not x8)) and (x4 or x8))) and ((not x2) or 
+(f4 and ((not x5) or x8))) and (x2 or (not x5) or x8))))))))) and ((not x7) or 
+(((not x2) or (x0 or (x1 or (x4 or (x8 or f5))))) and (x3 or ((x2 or ((x1 or 
+(((not x4) or (x0 or ((not x5) and x8))) and (x4 or ((x5 or (x0 and x8)) and 
+((not x5) or (not x8)))))) and (x0 or x4 or x5 or x8))) and ((not x1) or ((x4 
+or (x2 and (x0 or (not x5) or (not x8)))) and ((not x4) or (((not x2) or (x0 or 
+f5)) and (x2 or x5 or (not x8)))))))) and ((not x3) or ((x0 or ((x1 or (x8 or 
+((x2 or f5) and f8))) and ((not x1) or x2 or (not x4) or x5))) and ((not x8) or 
+((x4 or ((x1 or (((not x2) or (x0 and x5)) and (x2 or x5))) and ((not x1) or 
+(((not x5) or ((not x2) and x2)) and f20)))) and (x0 or x2 or (not x4) or 
+x5))))))) and (x1 or x3 or x4 or x8))) and (not x3) and (x0 or x1 or (not x2) 
+or x3 or x4 or (not x5) or x7 or x8))) and ((not x0) or ((x5 or ((x1 or (x7 or 
+(x8 or (x9 or ((x3 or (x6 or (x4 and x2))) and ((not x2) or (not x3) or 
+x4)))))) and f15)) and ((not x5) or ((x1 or (((not x6) or (x2 or (x7 or (x9 and 
+(x3 or x4 or x8))))) and ((not x2) or x3 or x4 or x6 or x8 or (not x9)))) and 
+((not x3) or ((x4 or ((x8 or ((x2 or ((x6 or ((x7 or x9) and (x1 or (not x9)))) 
+and ((not x6) or x7 or x9))) and ((not x1) or (((not x2) or x6 or x9) and ((not 
+x6) or x7 or (not x9)))))) and (x1 or x2 or (not x9)))) and ((not x1) or (not 
+x2) or (not x6) or x7 or x8 or x9))))) and ((not x7) or ((x1 or (x4 or (x5 or 
+(x8 or (((not x2) or x3 or x6) and (x2 or (not x3) or (not x6))))))) and f6 and 
+((not x9) or (((not x1) or (x3 or (x4 or (x5 or (x6 or (x8 and (not x2))))))) 
+and ((not x3) or ((x1 or (((not x2) or (x4 or (x8 or ((not x6) and x5)))) and 
+(x2 or x4 or x5 or x6))) and (x2 or x5 or (not x6) or x8))) and (x1 or x2 or x3 
+or x4 or x5 or x8))) and ((not x5) or ((x6 or ((x1 or (((not x3) or (x4 or 
+(((not x2) or (not x9)) and (x2 or x8)))) and (x2 or x3 or x4 or (not x9)) and 
+x9)) and ((not x1) or x2 or x9))) and ((not x6) or ((x2 or (x3 or ((x1 or (x8 
+or (x9 and x4))) and ((not x1) or x4 or (not x9))))) and ((not x2) or (x8 or 
+((x1 or (x4 or ((not x9) and x3 and x9))) and ((not x1) or x3 or (not 
+x9))))))))))) and ((not x4) or (((not x2) or (x5 or (x6 or (x8 or (((not x3) or 
+x7 or (not x9)) and x3))))) and (x1 or ((x2 or (x6 or (f2 and f7))) and (x8 or 
+(((not x3) or (x6 or (x7 or ((x2 or (not x5)) and (x5 or x9))))) and ((not x9) 
+or (x2 or ((x3 or (f2 and ((not x5) or x6))) and f11))) and ((not x2) or (x3 or 
+(x9 or (f2 and ((not x5) or (not x7)))))))))) and ((not x1) or ((x3 or (f2 and 
+((not x5) or (x9 or ((x6 or (not x7) or x8) and (x2 or x7)))))) and ((not x3) 
+or (((not x9) or (x5 or (x8 and (x2 or x6 or x7)))) and (x2 or x6 or (not x7) 
+or x8))) and (x2 or x5 or x6 or x7 or x8 or x9))) and ((not x6) or ((x8 or 
+(((not x1) or (x2 or (x5 or (f16 and (x3 or (not x9)))))) and (x7 or (((not x9) 
+or ((x2 or (not x3) or x5) and ((not x1) or x3 or (not x5)))) and (x1 or ((x9 
+or (((not x5) or (x3 and (not x2))) and f10 and (x3 or x5))) and (x3 or x5 or 
+(not x9)))))))) and ((not x7) or ((x3 or (x9 or ((x1 or x5 or x8) and ((not x1) 
+or x2)))) and ((not x5) or ((x2 or (x3 or ((x1 or x8) and f6))) and ((not x2) 
+or (((not x3) or (x8 or x9)) and (x1 or x3 or x9))))) and ((not x9) or (((not 
+x3) or (x5 or (x8 or ((not x2) and (not x1))))) and (x3 or ((x2 or (((not x5) 
+or (x1 and x8)) and ((not x1) or x8) and (x1 or x5))) and ((not x2) or x5 or 
+x8))))))) and (x1 or (not x2) or (not x3) or (not x5) or x7 or x9))))) and 
+((not x8) or ((x2 or ((x4 or (((not x3) or (x1 or (x7 or (x9 or (x5 and x6))))) 
+and f9)) and (x1 or (not x4) or x5 or x7 or x9))) and ((not x7) or (x5 and 
+((not x1) or (((not x4) or (x2 or (((not x5) or (f16 and f9)) and f17))) and 
+((not x3) or x5 or x6 or x9))) and (x1 or x2 or x3 or x4 or (not x5) or x6))) 
+and ((not x2) or ((x4 or ((x5 or (x9 or ((x1 or (not x3) or x7) and x3))) and 
+((not x1) or (((not x3) or x5 or x6 or x7) and f7)))) and ((not x4) or (((not 
+x1) or (x3 or ((not x5) and f17))) and ((not x3) or (x5 or (x7 or ((x6 or (x1 
+and x9)) and f6)))) and (x1 or x3 or x5 or x6 or x7))) and (x1 or x3 or (not 
+x5) or x6 or x7 or x9))) and ((not x9) or ((x6 or (((not x2) or (x1 or (x5 or 
+(x7 or (x4 and x3))))) and ((not x3) or (((not x1) or (x5 or (x7 or ((not x4) 
+and x4)))) and (x1 or x2 or (not x4) or x7))) and ((not x5) or (x4 or ((x2 or 
+((x7 or (x1 and (not x3))) and f14)) and ((not x1) or (not x2) or x3)))))) and 
+((not x7) or (((not x1) or (x4 or (x5 or (f15 and f9)))) and ((not x5) or (x6 
+or (((not x3) or (f0 and (x1 or x2))) and (x1 or x2 or x4)))) and ((not x2) or 
+(x1 or (((not x3) or (f19 and f4)) and (x3 or ((x4 or (x6 and x5)) and 
+f4))))))))) and ((not x6) or (((not x1) or (((not x2) or (x4 or (x9 or (((not 
+x3) or x7) and (x3 or (not x7)))))) and (x2 or x3 or x4 or x5 or (not x7)))) 
+and (x1 or (((not x9) or (((not x2) or (x4 or (x5 or (x3 and (not x7))))) and 
+(x2 or x3 or x5 or x7))) and (x9 or (((not x4) or (x3 or (x7 or ((not x2) and 
+x5)))) and (x2 or ((x3 or (((not x7) or (x5 and x4)) and f8)) and ((not x3) or 
+f21))))))) and ((not x5) or ((x1 or (((not x9) or ((x3 or x4 or x7) and (x2 or 
+(not x3) or (not x7)))) and ((not x2) or x4 or x7 or x9))) and ((not x4) or 
+(((not x7) or (x2 or (x3 or (x1 and x9 and (not x9))))) and (x1 or x2 or x3 or 
+x9))) and ((not x1) or ((x2 or (x3 or (((not x7) or (not x9)) and x7))) and 
+((not x4) or (((not x2) or ((not x9) or (x7 and x3))) and (x2 or x3 or x7))) 
+and ((not x3) or ((x4 or ((x2 or x9) and (x7 or (not x9)))) and ((not x2) or 
+(not x4) or (not x7)))))))))) and x3)) and (x2 or x6 or (not x9)))) and (not 
+x0) and (not x9) and (not x4) and (not x6) and (not x5) and (not x7) and (not 
+x5) and (not x8) and (not x9) and (not x7) and (not x6) and (not x6) and (not 
+x0) and (not x7) and (not x5) and (not x8) and (not x5);
+show_ones z;
+

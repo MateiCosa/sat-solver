@@ -1,0 +1,6 @@
+var XpR wUE Iiy Nnh;
+kCB = (Iiy or (Nnh or (XpR or Nnh) or Iiy)) and Iiy and Nnh;
+ZUZ = kCB or (kCB and (not (not XpR)));
+zON = kCB or (not (Iiy or (not kCB)));
+show_ones kCB ZUZ zON;
+

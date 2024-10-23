@@ -1,0 +1,24 @@
+var T__ ADV;
+Oxv = (not ((T__ or T__ or ADV) and ADV)) and (((T__ or T__ or T__) or ADV or 
+(not T__) or (T__ and T__ and T__ and ADV)) and T__ and T__ and T__) and (not 
+(not (T__ or ADV or ADV or ADV))) and (not (T__ or True));
+tOU = Oxv or (not (not (not Oxv)));
+show Oxv tOU;
+var _Zo ZAs;
+Idm = not ((tOU and (T__ and Oxv and T__) and (ADV or Oxv or _Zo or ZAs)) and 
+((not tOU) and tOU and (tOU and tOU and T__ and ZAs) and (not Oxv)) and ADV);
+show_ones Idm Idm Idm;
+var JdU RyF eBY;
+zfA = ((False or T__ or (not tOU) or ZAs) and ZAs and tOU and (Oxv or (Idm or 
+ADV or ZAs or ZAs) or ZAs or (T__ and tOU and T__ and tOU))) and T__ and Idm;
+Spb = _Zo and ZAs;
+Fru = (not (not (True and Spb))) or (not (not (JdU or ZAs or eBY))) or eBY or 
+(((not JdU) or Spb or (not JdU) or Idm) or ((eBY or ZAs or zfA) or (eBY or ADV) 
+or (JdU or JdU or True or ADV)) or ZAs);
+mdt = ((not eBY) and RyF and (T__ or (not RyF) or tOU)) or ((zfA or Oxv) and 
+((RyF and Spb and _Zo) or Spb or (RyF or Spb or ADV) or (tOU or tOU or ZAs))) 
+or tOU or (not ADV);
+oMc = ((not JdU) or Idm or ((not eBY) or (ZAs and eBY and T__ and True))) and 
+RyF;
+show mdt tOU zfA oMc tOU;
+

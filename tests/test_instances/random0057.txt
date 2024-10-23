@@ -1,0 +1,22 @@
+var PlA KPc Jcg;
+QfS = not PlA;
+BDD = not ((QfS and (QfS and KPc) and (False and Jcg)) and QfS and (not (False 
+or QfS or QfS or Jcg)) and Jcg);
+CI_ = ((not Jcg) or QfS or KPc) or (((BDD and KPc and KPc) and (True or Jcg or 
+QfS or Jcg) and BDD) or (QfS or True or (KPc or PlA or KPc or Jcg)) or PlA) or 
+QfS or PlA;
+show CI_ BDD;
+var jJz fbf jCt mko;
+ZZm = (QfS and QfS and ((not jJz) or (not jCt) or KPc or BDD)) and Jcg and (CI_ 
+or CI_ or jJz or CI_) and (BDD and (mko or (fbf or CI_ or fbf or False)) and 
+KPc and jJz);
+show_ones CI_ BDD ZZm QfS BDD;
+var _qg ZDB cAc ltg NYF;
+show ZZm BDD;
+IVl = (Jcg or (BDD and CI_)) and (CI_ and PlA and QfS and BDD) and QfS;
+vEW = jCt and ZZm and KPc;
+kGS = Jcg or jCt or ZZm or (jJz and (not fbf) and ((mko or fbf or IVl) or (fbf 
+or mko or QfS)) and jJz);
+XFu = NYF and ((PlA or (_qg or QfS or kGS or vEW) or (jCt or KPc) or (jCt and 
+_qg and IVl and QfS)) or jJz or ((ZZm and jCt and ltg) and BDD) or kGS);
+

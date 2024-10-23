@@ -1,0 +1,16 @@
+var ETx oiU dzP a_N HUU;
+GlX = (dzP or dzP or HUU or ((ETx or ETx or True) or HUU)) or False;
+zAw = not (GlX and a_N and (GlX and GlX));
+yCG = zAw and ((False and (zAw or oiU) and oiU and (oiU or GlX or GlX or zAw)) 
+and (not (GlX and ETx and oiU and oiU)) and HUU) and ((not oiU) and ((not oiU) 
+and (GlX or zAw))) and GlX;
+clF = (not (not (yCG and GlX and dzP and dzP))) or (a_N or (not (not yCG)));
+show GlX zAw yCG clF;
+var NwQ OEu rXn VKb;
+MdQ = a_N and ETx;
+vLX = (not dzP) and zAw and dzP;
+qgX = NwQ or (((clF and False and VKb and a_N) or (not vLX) or (VKb or ETx or 
+MdQ) or MdQ) or ETx or OEu) or a_N;
+show qgX qgX;
+dUw = (not (NwQ or clF or (not zAw))) and VKb and (GlX and HUU and oiU);
+

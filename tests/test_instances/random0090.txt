@@ -1,0 +1,16 @@
+var DTG xVJ;
+giC = xVJ and (((not xVJ) and DTG and xVJ and DTG) or DTG) and ((not DTG) and 
+((DTG or xVJ or xVJ or xVJ) and DTG and (DTG and xVJ and xVJ and DTG) and DTG) 
+and xVJ and (DTG and (not xVJ)));
+eR_ = (not (DTG or DTG or giC or xVJ)) and ((not (not xVJ)) or giC or ((DTG and 
+giC) and DTG and giC));
+WSZ = DTG and giC and xVJ and (((DTG or DTG) or (xVJ and giC and giC and DTG)) 
+or ((eR_ or xVJ or DTG) and xVJ and xVJ) or eR_);
+dXE = DTG and eR_ and (WSZ or (WSZ or (xVJ and WSZ and giC)) or (xVJ or xVJ or 
+(xVJ and eR_ and DTG and WSZ) or (not False)) or ((xVJ or eR_ or giC) or eR_ or 
+DTG)) and WSZ;
+show giC dXE;
+var jvI kIG hRo;
+KLn = eR_ or WSZ or (not giC);
+show_ones KLn KLn KLn;
+

@@ -1,0 +1,6 @@
+var QEg gKh tEJ;
+JQP = not (tEJ and ((tEJ or gKh) or gKh or (gKh or tEJ or tEJ)) and (not (gKh 
+or gKh)));
+BFP = not tEJ;
+show JQP BFP;
+

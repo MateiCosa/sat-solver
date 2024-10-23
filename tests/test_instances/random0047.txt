@@ -1,0 +1,9 @@
+var dhF etG Gdq Din KRT;
+rUy = not ((not dhF) and Din and (KRT and (True and False and dhF and Din) and 
+(dhF or etG) and (not etG)) and Gdq);
+gFp = not dhF;
+KLX = not ((KRT and (Gdq and Gdq and rUy) and rUy and rUy) or (not (gFp or dhF 
+or rUy or gFp)) or (not (rUy and etG and etG and rUy)) or etG);
+Moe = rUy and ((not gFp) or (not etG) or (not KRT));
+show rUy gFp KLX Moe;
+

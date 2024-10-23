@@ -1,0 +1,19 @@
+var Z_g cTY S_T;
+vYA = (not cTY) or (not ((cTY or Z_g or Z_g or S_T) or Z_g or S_T or cTY)) or 
+S_T or (Z_g or cTY);
+Rgw = cTY and ((not Z_g) or (not (not S_T)) or (not vYA)) and S_T and (Z_g and 
+S_T);
+Cjq = (((not S_T) and vYA and (Rgw or cTY or Z_g) and (Rgw or cTY)) and vYA) or 
+cTY or S_T;
+iPm = (not True) or ((Cjq and Z_g) and cTY and (S_T and (not Rgw)));
+show iPm Cjq Rgw;
+var HId sJl WxR;
+wdE = (not ((S_T and vYA) or Rgw or sJl or (HId or S_T))) and (not ((S_T and 
+Rgw and sJl) and vYA and (S_T or sJl or vYA or S_T) and Z_g));
+ERH = (not (not wdE)) and iPm;
+Tlb = ((iPm or cTY or cTY) or sJl or WxR or WxR) or wdE or vYA or (S_T or ((not 
+Rgw) and HId and WxR and (not wdE)));
+FGk = Rgw and (((Cjq and WxR and vYA) and (not Z_g) and S_T) and cTY and sJl 
+and (WxR and (not WxR) and (not S_T)));
+show Tlb FGk;
+

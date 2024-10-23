@@ -1,0 +1,16 @@
+var oTw cLm;
+lam = cLm or cLm or (not ((cLm and cLm and cLm) or (cLm or oTw or cLm or oTw) 
+or (oTw or cLm)));
+YUO = not (((not lam) and (lam and lam and cLm) and lam) or oTw or cLm or cLm);
+Ndj = not cLm;
+show lam YUO Ndj;
+var Pge fFu VLT GdW uIA;
+LTz = YUO and ((YUO or (Ndj and cLm and Ndj) or lam) or (cLm or (cLm or Ndj or 
+fFu or Pge) or (lam or False or fFu)) or (lam and YUO and GdW) or GdW);
+nel = Ndj or ((oTw or (cLm and cLm and VLT and GdW) or True or (fFu or Ndj)) or 
+oTw or YUO) or (not ((cLm or YUO or LTz or LTz) or (Pge or fFu or YUO))) or oTw;
+show Ndj YUO LTz lam nel;
+OAv = ((VLT or (fFu or lam or nel) or LTz) or YUO or ((nel or fFu) or (uIA or 
+oTw) or (oTw or VLT or LTz))) and Pge and Pge;
+jna = oTw or lam;
+

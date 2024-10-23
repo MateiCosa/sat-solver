@@ -1,0 +1,23 @@
+var SYo Oqz mwk eUY TlD;
+CQT = ((not (not eUY)) or eUY or ((Oqz or TlD or Oqz) and (mwk and eUY and Oqz 
+and SYo) and (Oqz or SYo or SYo or TlD) and SYo)) or Oqz;
+ow_ = Oqz or False;
+show CQT ow_;
+var BkW Epa;
+Pga = eUY and (BkW and mwk and ow_);
+show_ones Pga Pga CQT;
+var pkV iJz LhV;
+etK = eUY and ow_ and (((Epa and Pga and ow_) or (Pga and mwk and Pga and eUY) 
+or (not ow_)) and SYo and (not (mwk or BkW or Oqz or mwk)) and eUY) and Pga;
+lCk = (TlD and ow_ and etK and Pga) or (not ow_);
+feY = (mwk and Oqz and ((SYo or Epa) and (SYo and Epa)) and Epa) or ((SYo and 
+(Epa and etK and TlD and eUY)) and Oqz and (not etK)) or eUY or (lCk and ((not 
+mwk) or (TlD and ow_ and Epa)));
+oPj = (CQT or BkW or (iJz and lCk and (Epa and LhV) and (BkW and lCk and mwk)) 
+or (mwk or (not Pga))) and (not ((Oqz or etK or False) or BkW or (pkV and 
+TlD))) and (CQT and TlD) and (Epa and SYo and mwk and mwk);
+BJS = not ((Oqz and (not TlD)) and ((lCk or pkV) and (not ow_)));
+show_ones ow_ CQT BJS lCk;
+in_ = (iJz or ((ow_ and Pga) or feY or Epa or BJS) or (True and iJz and LhV) or 
+oPj) and (Oqz and ((not False) or True)) and CQT and True;
+

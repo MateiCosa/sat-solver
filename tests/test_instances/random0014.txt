@@ -1,0 +1,11 @@
+var faE urM nHV VVp TTo;
+uZM = (((TTo and TTo) or nHV or (urM or TTo) or urM) and ((urM and faE and VVp 
+and urM) or (not VVp) or nHV or TTo) and (not (nHV or urM or TTo)) and (not 
+(urM or faE or faE))) or faE or VVp;
+llF = faE or (uZM and VVp and ((nHV and nHV and uZM) and uZM) and nHV) or faE 
+or faE;
+lqy = not TTo;
+show llF uZM lqy;
+lto = ((llF or (not nHV) or faE or urM) or lqy or nHV or ((uZM or llF or lqy) 
+and (lqy or TTo))) or nHV or lqy or (TTo and llF);
+

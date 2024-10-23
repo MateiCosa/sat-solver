@@ -1,0 +1,7 @@
+var Rea maC Owp;
+MpP = (not Rea) or maC or ((Rea or Rea or (Rea and Rea and Rea and maC)) and 
+(Owp and (Owp and Rea and Owp) and (Owp and maC and Owp and maC)) and (not (Owp 
+and Rea)) and Rea) or Rea;
+enD = Rea and (not MpP) and (not MpP);
+show MpP enD;
+

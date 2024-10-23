@@ -1,0 +1,10 @@
+var IIR utT;
+PQq = IIR or ((IIR or IIR or (IIR or False) or False) or (IIR and utT) or ((IIR 
+or IIR or utT) and (utT and utT and IIR and IIR) and (IIR or utT or utT) and 
+(not IIR)) or ((not utT) or (IIR and utT))) or (not IIR);
+X_k = (((utT or utT or True) or IIR or (PQq and PQq)) and PQq and PQq) and utT 
+and (not (PQq or (IIR or PQq or utT or PQq)));
+AWf = (not (not (not True))) and ((X_k and (not IIR)) and (X_k or (utT or PQq 
+or X_k or utT))) and (False or ((not IIR) and PQq) or PQq) and (not IIR);
+show PQq AWf;
+

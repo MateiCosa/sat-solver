@@ -1,0 +1,21 @@
+var x15 x14 x13 x12 x11 x10 x9 x8 x7 x6 x5 x4 x3 x2 x1 x0;
+f0 = x4 or x8;
+z = x6 and (x3 or (x11 and x5)) and x0 and (x8 or (x1 and (x4 or (not x12)) and 
+x14)) and (x7 or ((x0 or ((x4 or x12) and (x1 or x5))) and x11 and (not x0) and 
+(not x11))) and ((not x4) or (x5 or ((not x11) and x3 and x8))) and (x10 or (x1 
+and (not x12) and (not x7) and f0)) and ((not x14) or (((not x10) or (((not x7) 
+or (not x11)) and x11)) and (x0 or x8) and (x1 or x4 or (not x8) or x13))) and 
+x9 and ((not x1) or ((x10 or (x11 and (x5 or x15))) and ((not x11) or (not 
+x12)) and f0 and x13 and x9)) and ((not x2) or ((x11 or (((not x1) or x8 or 
+x13) and (x5 or (not x7)))) and (x10 or (x3 and x12)) and ((not x10) or ((x1 or 
+x4) and (x8 or x9))) and x6)) and ((not x15) or ((x7 or (x8 and (not x2) and 
+(not x8))) and (not x0) and (not x9) and (x1 or x5 or (not x9)) and x6 and (x3 
+or x9))) and ((not x13) or ((x14 or (((not x8) or (not x9) or (not x11)) and 
+(not x5))) and (x15 or ((x4 or x7 or x9) and x6 and (not x10))) and ((not x12) 
+or (x8 or (((not x0) or x11) and ((not x5) or x6)))) and x7 and (not x14) and 
+(x0 or x11))) and ((not x3) or (x7 and (x1 or (x9 and x12)) and (x2 or ((not 
+x0) and (not x1))) and x11 and ((not x2) or x6) and (x8 or (not x9) or (not 
+x13)) and ((not x5) or x9 or (not x14)))) and (not x12) and x4 and (not x15) 
+and (not x3);
+show_ones z;
+

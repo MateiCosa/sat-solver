@@ -1,0 +1,7 @@
+var kqC HRZ QyT;
+CoD = (QyT and QyT and (kqC and (HRZ or QyT or HRZ) and (kqC and QyT and kqC 
+and HRZ) and (QyT or True)) and (HRZ and kqC and (not kqC) and QyT)) and ((kqC 
+or HRZ) or (not (not HRZ))) and kqC;
+Nwr = not kqC;
+show CoD Nwr;
+

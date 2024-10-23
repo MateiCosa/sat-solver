@@ -1,0 +1,15 @@
+var jfW nLT EyB NsH;
+ftX = (nLT and nLT) and (NsH and EyB and EyB);
+TnO = not (NsH or ((EyB or EyB) or (ftX or ftX or ftX or jfW) or ftX or NsH) or 
+jfW);
+show_ones TnO TnO ftX;
+var lGT UIP EQf;
+LSR = (((ftX or TnO or jfW) and (not TnO)) and (NsH and (TnO and EyB and nLT)) 
+and ftX) and NsH;
+FfA = not NsH;
+gp_ = not EyB;
+tLH = not (not (LSR or (not NsH) or (ftX or jfW or EQf or jfW)));
+OYa = (not ((lGT or TnO or jfW or FfA) and jfW and EQf)) or NsH;
+ijQ = (not jfW) or jfW or (not (jfW and nLT)) or (EyB or (not LSR));
+show ijQ LSR;
+

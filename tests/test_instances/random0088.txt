@@ -1,0 +1,14 @@
+var NIi TTR fZC;
+WEP = not ((not (TTR and NIi)) and (not TTR) and (not (NIi and TTR and TTR)) 
+and TTR);
+Ysl = NIi and NIi;
+show WEP Ysl;
+var xnT T_e uyx npU RCi;
+ttz = NIi or ((Ysl or (Ysl or WEP or WEP or NIi)) or ((Ysl and xnT and fZC) or 
+WEP or WEP or (Ysl or TTR)) or NIi) or Ysl;
+jDi = (RCi and fZC and WEP) and ((not (ttz or Ysl)) and WEP and WEP);
+UDC = WEP or (((xnT or xnT) or (NIi and jDi and True) or WEP or WEP) or False) 
+or TTR or jDi;
+BGC = RCi or fZC or NIi or (not (Ysl and WEP and (not NIi)));
+show_ones Ysl ttz BGC;
+

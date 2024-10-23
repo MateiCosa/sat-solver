@@ -1,0 +1,9 @@
+var x9 x8 x7 x6 x5 x4 x3 x2 x1 x0;
+z = (x6 or ((x0 or x3 or (not x8)) and (x1 or x7 or x8))) and ((not x2) or ((x3 
+or x5 or x9) and ((not x0) or x8))) and (x2 or ((x1 or (((not x0) or x9) and 
+x7)) and (x5 or (not x9)) and (x3 or x4 or (not x6) or (not x8)))) and ((not 
+x4) or ((x3 or (x5 and x1)) and (x7 or x9) and (x2 or (not x8)) and (not x8))) 
+and ((not x7) or (((not x1) or ((not x2) and ((not x3) or x5))) and x6 and (x3 
+or (not x5) or (not x9)) and (x0 or x2 or x5))) and x7 and (x4 or x8);
+show_ones z;
+

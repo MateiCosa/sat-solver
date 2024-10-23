@@ -1,0 +1,12 @@
+var Qtm BM_ WGC ijQ Kzs;
+HWk = True and Kzs and (((not Qtm) and ijQ and (BM_ or ijQ or ijQ or Kzs)) and 
+Kzs and (Kzs and BM_ and BM_)) and (False and ijQ and (BM_ or Kzs or ijQ or 
+Qtm));
+hJy = not HWk;
+clt = BM_ or ijQ or (not (hJy or (not HWk)));
+lpZ = (not BM_) and BM_ and False;
+show HWk hJy clt lpZ;
+var dIx SqX BzB Apo;
+arg = not (not (not (clt and SqX and ijQ)));
+show arg arg hJy;
+

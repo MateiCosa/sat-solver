@@ -1,0 +1,13 @@
+var gkJ UEW IXd zyO OGg;
+NVe = gkJ or gkJ or IXd or (OGg or gkJ);
+PCs = ((IXd and gkJ and zyO and zyO) and ((not NVe) and (False or gkJ or UEW) 
+and IXd)) or (((not OGg) and NVe and (not NVe)) or UEW or OGg) or (not gkJ) or 
+((NVe and (not True) and (NVe or UEW or NVe)) and gkJ and NVe);
+Cya = not IXd;
+show NVe PCs Cya;
+var Hnv jvv kIe AWx;
+TxH = ((not Hnv) or (not (Cya or jvv)) or NVe or ((not Cya) or AWx or (kIe or 
+kIe))) or zyO or (gkJ and kIe and zyO and ((PCs or Cya) and (PCs or AWx or OGg 
+or PCs))) or IXd;
+show TxH NVe NVe;
+

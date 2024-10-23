@@ -1,0 +1,9 @@
+var iEA bTo QVM;
+haI = (QVM and (bTo or QVM) and (not (bTo and bTo)) and iEA) and QVM and (not 
+((bTo and bTo and iEA) and (iEA or iEA) and iEA and (iEA or QVM))) and (bTo or 
+(not (iEA and True and iEA)) or ((False and QVM) or QVM));
+show haI;
+var BRT qXx HAH sTh;
+VSW = not (not haI);
+show haI VSW;
+

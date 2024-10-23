@@ -1,0 +1,12 @@
+var sYD hAC Qzz UaG;
+wOf = (not (not Qzz)) or UaG or (Qzz and Qzz and (not (Qzz or Qzz or UaG)));
+show wOf;
+var DrR jAI jOi baV;
+Luv = baV or (jOi or wOf or ((wOf and Qzz and True and Qzz) or (sYD and jOi and 
+wOf) or (not DrR))) or (False or ((Qzz or jAI) or baV or (baV and jOi and 
+wOf))) or jAI;
+Nwr = not (wOf and jOi);
+FYw = not ((Luv and (wOf or UaG or wOf or DrR) and wOf) or DrR);
+xpa = baV and Qzz and UaG and (wOf or (Luv or (baV and Nwr) or Nwr or hAC));
+show xpa xpa Nwr xpa;
+

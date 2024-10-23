@@ -1,0 +1,18 @@
+var AJJ BJw;
+xAG = not BJw;
+ELv = xAG or BJw or ((xAG or (not AJJ) or xAG or AJJ) and xAG) or xAG;
+show xAG ELv;
+var knK LRs fwJ kkx BkZ;
+GCI = (ELv or (not (xAG and AJJ and fwJ))) or fwJ or BJw;
+iIv = (not (not fwJ)) or ((not knK) and (knK or (not BkZ)) and (not BJw) and 
+xAG);
+jdd = not fwJ;
+ZQy = ((not (knK and xAG)) or (kkx or (ELv or xAG or xAG))) and ELv and ((False 
+or (knK or ELv or knK or GCI) or jdd) or ((LRs and GCI and LRs) or xAG or ELv) 
+or BkZ) and (not jdd);
+show xAG ZQy jdd;
+var qWg VBW VVV;
+jot = not (not ((xAG or LRs or xAG) or xAG or VBW or (not VBW)));
+show ELv iIv xAG jdd jot;
+NdK = (not ELv) or (VVV or (VBW and (xAG or BJw or xAG or jot)) or xAG or LRs);
+

@@ -1,0 +1,5 @@
+var sHc _mN zCk;
+OV_ = (not sHc) or (not (sHc and (zCk and _mN and sHc and _mN) and (_mN or sHc 
+or sHc)));
+show OV_;
+

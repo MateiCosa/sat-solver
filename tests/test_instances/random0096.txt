@@ -1,0 +1,11 @@
+var sxP mzt _kx kJN;
+_Wk = kJN and False and (mzt or kJN or kJN) and _kx;
+GoK = (kJN and _Wk and mzt) and _Wk and ((_Wk or _Wk or _Wk) or (not sxP) or 
+mzt);
+S_M = not GoK;
+qyd = (mzt or ((_Wk and _kx and kJN) or kJN)) and _kx;
+show _Wk GoK S_M qyd;
+var Lvg IRb ZWA;
+NWr = not sxP;
+show_ones NWr _Wk qyd;
+

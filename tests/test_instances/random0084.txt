@@ -1,0 +1,12 @@
+var UKw Hvn Nez dLC;
+YeX = Hvn or Nez;
+show_ones YeX;
+var Pbr JCO DeE jSo;
+zrS = jSo and YeX and ((DeE and (Pbr and YeX and True) and (Nez and YeX and JCO 
+and YeX) and (UKw and DeE and dLC and YeX)) or (JCO or (YeX or Pbr or Nez or 
+Nez) or Pbr) or ((YeX and jSo and Hvn) or DeE or Hvn or (YeX and jSo and Pbr 
+and Nez))) and (YeX or (UKw and DeE));
+NRC = (Nez or ((YeX and YeX and Hvn and YeX) or dLC or (zrS and YeX)) or zrS or 
+((not zrS) and zrS)) and Nez and (DeE or (not YeX) or ((not dLC) or YeX));
+show YeX zrS NRC;
+

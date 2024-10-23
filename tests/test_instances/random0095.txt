@@ -1,0 +1,15 @@
+var iuW iHf;
+bKk = ((not iHf) or (iHf or (iHf or iuW) or (iuW and iuW and iuW and iHf) or 
+iuW)) or iHf;
+CLL = iuW and (iHf or bKk or ((not iHf) and bKk));
+Wmk = iuW or iHf;
+Jil = not (not iuW);
+show bKk CLL Wmk Jil;
+var Wpi Gno LzB SgM;
+lUg = CLL and CLL and False and (iuW or ((Wmk and Jil) or (Wpi or SgM or Jil)) 
+or bKk or (not LzB));
+xTU = CLL and (CLL and iHf) and iuW and CLL;
+sST = xTU and xTU and SgM;
+show_ones CLL Jil sST;
+sFh = (not (Wpi and (sST and iHf and sST) and bKk)) or (not sST) or iHf;
+

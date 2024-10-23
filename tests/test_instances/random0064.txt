@@ -1,0 +1,5 @@
+var gKA xPj Idk;
+GlT = gKA or gKA;
+Sfg = gKA or (not Idk) or ((not (xPj and GlT and xPj)) and gKA) or xPj;
+show GlT Sfg;
+

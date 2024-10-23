@@ -1,0 +1,12 @@
+var lHE amQ Rtb mew;
+FuA = (not (not (not mew))) or mew or mew;
+zzv = (((mew and False and FuA and Rtb) or (FuA and True)) or (not (lHE or FuA 
+or amQ))) and FuA and amQ;
+wxc = not (Rtb or (not (not FuA)) or zzv);
+show FuA zzv wxc;
+var XJX oYr kzh TgD;
+show zzv wxc wxc;
+GUT = not (not (not wxc));
+_ih = GUT or (wxc or TgD or zzv);
+GHy = GUT or (oYr and TgD) or XJX or (mew or Rtb or FuA);
+

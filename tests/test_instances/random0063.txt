@@ -1,0 +1,24 @@
+var vFO LFE xcs NNA baO;
+vkY = not NNA;
+show_ones vkY;
+var COW RJW jfc AbH;
+yNO = (((vkY or vkY) and vkY) and RJW and AbH and ((vkY and NNA and AbH) and 
+(vkY or vkY or False or vkY) and NNA)) or (vkY or vkY or xcs or LFE) or (not 
+vkY) or (((not vkY) and RJW and jfc and (LFE or jfc)) and vkY and vkY);
+show yNO yNO;
+var idt nAl ZS_ lEE;
+sXX = vkY or (not AbH) or ((not NNA) or COW or False);
+YDl = sXX and (not jfc) and baO;
+izT = (((sXX and yNO and yNO) or (vkY and idt and YDl)) or (vkY or RJW or (yNO 
+or baO or YDl or NNA) or sXX) or (not False) or (AbH and (COW or YDl or RJW) 
+and (not xcs) and (nAl or sXX or nAl))) and yNO and lEE and ((not vkY) or jfc 
+or (not yNO) or ((yNO or yNO or YDl or vkY) and RJW));
+RPG = not ((vFO or (not COW) or (yNO or RJW or sXX or sXX) or baO) and (xcs and 
+vkY and sXX and sXX) and ((COW or NNA or YDl or NNA) or izT));
+BFJ = (vkY or ((idt or ZS_ or idt) and (not vFO)) or (not sXX) or LFE) or ((RPG 
+and True and (YDl or NNA or vkY or RJW)) and (YDl and LFE and nAl) and vFO and 
+RJW) or izT;
+pMP = ((sXX and (NNA or yNO) and (not RJW) and (NNA and True and ZS_)) and nAl 
+and BFJ) and (not (yNO and jfc and nAl and RPG));
+show pMP BFJ pMP;
+

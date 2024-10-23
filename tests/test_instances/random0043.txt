@@ -1,0 +1,10 @@
+var _jX xSq;
+wrG = (xSq and _jX and ((xSq and xSq and _jX and _jX) and False and (_jX and 
+xSq and _jX) and (xSq or xSq or _jX or _jX))) or (not xSq);
+_HD = wrG and (xSq and wrG) and (not wrG);
+xqA = (not (not wrG)) and wrG;
+MJC = ((wrG and xSq) and (_HD and (xSq or wrG or xSq) and (xSq or xqA or xSq) 
+and xqA) and (_jX and (xSq or xqA) and _HD) and (not (not _jX))) and _jX and 
+xSq and False;
+show wrG _HD xqA MJC;
+

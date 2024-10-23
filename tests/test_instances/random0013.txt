@@ -1,0 +1,7 @@
+var Gap iNP;
+YPt = Gap and Gap and Gap and (not Gap);
+Jmp = Gap and ((not Gap) and Gap);
+_EM = (Gap and (iNP and YPt and (Gap or YPt or Jmp or Gap))) or (iNP and Gap 
+and Gap) or Jmp;
+show_ones YPt Jmp _EM;
+

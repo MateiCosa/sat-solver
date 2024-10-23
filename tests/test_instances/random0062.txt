@@ -1,0 +1,10 @@
+var uHT anR fSz OLr;
+zsk = OLr and ((uHT or uHT) and ((uHT and fSz and anR and anR) or (uHT and anR 
+and anR) or fSz or (OLr or anR or fSz)) and ((not False) or anR or uHT) and 
+OLr);
+SCY = (anR or (not anR) or fSz or zsk) and zsk;
+SbH = (zsk or ((True or zsk) or (not OLr) or (zsk and anR and uHT and OLr) or 
+SCY) or (not (uHT and SCY)) or uHT) or ((not (zsk and SCY and OLr)) and fSz and 
+((anR and OLr) or anR or OLr)) or zsk or zsk;
+show zsk SbH;
+

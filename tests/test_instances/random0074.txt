@@ -1,0 +1,9 @@
+var MiW Tpa;
+MMQ = MiW and Tpa and (not Tpa);
+yDC = (not MMQ) and MiW and (MMQ or Tpa or Tpa);
+Y_C = not MiW;
+show yDC Y_C;
+var jSZ UCU wHT kVf;
+show MMQ Y_C;
+tmY = not (Y_C or (yDC and (kVf and yDC)));
+

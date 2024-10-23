@@ -1,0 +1,5 @@
+var oMn Iwe PZD mVd;
+VDk = (oMn and (Iwe or (Iwe or oMn or mVd) or mVd) and (Iwe and (PZD and mVd 
+and Iwe) and (oMn or Iwe))) and True and Iwe;
+show VDk;
+

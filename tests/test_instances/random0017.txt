@@ -1,0 +1,19 @@
+var qCa FrQ;
+zvn = not FrQ;
+ZYZ = zvn and (FrQ and qCa);
+fZs = not ZYZ;
+show zvn ZYZ fZs;
+var SHd icL W_r;
+ZIm = zvn and ((zvn or (fZs or fZs) or ZYZ) or (False or fZs or ZYZ) or (icL or 
+zvn)) and icL and (not (not (not fZs)));
+KTe = ZIm or FrQ or fZs;
+PGG = not KTe;
+FRE = (not qCa) and ((not (FrQ and SHd and FrQ and ZYZ)) or (icL or qCa or fZs) 
+or (not (KTe or FrQ or ZYZ or FrQ)) or (fZs or icL or FrQ or SHd)) and FrQ;
+show zvn FRE;
+var kHk ThL QXV;
+yHr = True or True or QXV;
+ywR = yHr and zvn and (ZYZ or ((kHk or ThL or icL or KTe) or (not zvn) or ZIm) 
+or FRE or ThL);
+show ywR ZIm FRE ywR;
+

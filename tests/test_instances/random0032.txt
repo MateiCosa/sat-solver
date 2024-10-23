@@ -1,0 +1,9 @@
+var Ljw apX kTH wvL Wzh;
+ZVl = ((apX or (not Wzh)) or (Wzh or (not wvL)) or Wzh) or (not kTH);
+AXE = (not ZVl) or wvL or ZVl or (Ljw or (apX or (not ZVl)) or (Wzh or Ljw or 
+(kTH or Wzh or wvL or ZVl) or wvL));
+xpy = Ljw and kTH and (not ZVl) and (Ljw and Wzh);
+DJy = (Wzh and ((Wzh or kTH or AXE) or apX or (AXE or ZVl) or apX)) or (AXE and 
+ZVl) or kTH or Ljw;
+show ZVl AXE xpy DJy;
+

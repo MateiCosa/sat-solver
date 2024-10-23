@@ -1,0 +1,12 @@
+var GTw Cbu bhf;
+EsJ = not (GTw or Cbu or Cbu or False);
+show EsJ;
+var cEh rKR XT_ Ylk;
+bka = not (not EsJ);
+LGe = not rKR;
+JPB = Cbu or bhf;
+show EsJ bka LGe JPB;
+var RTy uSg NAF;
+show JPB bka;
+QYj = ((cEh or cEh) or bka or bka) and cEh and RTy and EsJ;
+

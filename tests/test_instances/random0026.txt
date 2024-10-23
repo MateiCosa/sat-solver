@@ -1,0 +1,12 @@
+var FOP dXS Xpc kJg;
+EXi = not True;
+SKX = not (not ((EXi or EXi or dXS or dXS) and FOP));
+tlp = (not SKX) or (not (FOP and kJg and FOP and EXi)) or (EXi and (not SKX));
+dIC = kJg or tlp;
+show EXi SKX tlp dIC;
+var IfQ JIn vhX;
+zDN = ((not FOP) and (not IfQ) and tlp) and EXi and (EXi or vhX or (not dIC) or 
+((tlp or dXS or vhX or dIC) or (dIC and tlp and False and kJg) or (tlp and kJg 
+and JIn and tlp))) and IfQ;
+show EXi zDN EXi SKX;
+

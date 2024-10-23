@@ -1,0 +1,4 @@
+var zaE rxF WVa;
+Bdo = rxF and (not ((zaE and zaE) and (rxF or rxF or WVa or zaE)));
+show Bdo;
+

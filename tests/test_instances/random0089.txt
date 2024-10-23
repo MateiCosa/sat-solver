@@ -1,0 +1,9 @@
+var hnR Cmz;
+biQ = ((not Cmz) and hnR and ((not Cmz) or (hnR and Cmz and hnR) or hnR or hnR) 
+and ((Cmz or Cmz) or Cmz or (hnR and Cmz) or hnR)) or hnR or (not hnR) or ((not 
+(hnR or hnR or hnR)) and (not hnR) and Cmz and (Cmz and Cmz));
+gGg = (biQ and (biQ and (Cmz and biQ) and Cmz)) or hnR or (biQ and (not (hnR or 
+biQ or Cmz)) and (hnR or (True or biQ or Cmz or Cmz) or (hnR or Cmz or hnR or 
+biQ) or (biQ or Cmz or Cmz)));
+show_ones biQ gGg;
+

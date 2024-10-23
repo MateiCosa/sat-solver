@@ -1,0 +1,8 @@
+var OJg WNz;
+BeY = OJg and ((not OJg) and OJg and WNz and OJg) and WNz;
+nY_ = not (not WNz);
+show_ones BeY nY_;
+var GIH MHH GFx zEa xXE;
+xvD = MHH or nY_;
+show xvD nY_;
+

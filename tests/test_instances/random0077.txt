@@ -1,0 +1,8 @@
+var QKq Gep KRV ZjT jKR;
+XFh = Gep and ZjT and KRV and KRV;
+ZzV = not QKq;
+SsY = jKR and (not QKq);
+wlb = (((not QKq) or (XFh or KRV) or KRV) and ((QKq and KRV and ZjT) and (Gep 
+or jKR or Gep) and Gep) and ZzV) or (Gep and ZzV and QKq and ZzV) or XFh;
+show XFh ZzV SsY wlb;
+

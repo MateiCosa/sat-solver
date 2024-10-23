@@ -1,0 +1,12 @@
+var Meb jpH _SS;
+eMN = (Meb and (not (not Meb)) and (not (Meb and _SS)) and (Meb and Meb and 
+(jpH or _SS or jpH or Meb) and (Meb or Meb))) or Meb or (not (_SS and (Meb and 
+True and jpH) and Meb));
+qGh = eMN and eMN;
+show eMN qGh;
+var XRj WaM;
+byP = not (qGh and (not (_SS or jpH or XRj)) and qGh and WaM);
+show_ones eMN byP;
+szp = (True or (XRj and eMN and (byP or eMN or eMN))) or (not _SS) or (eMN and 
+True);
+

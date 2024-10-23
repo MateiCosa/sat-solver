@@ -1,0 +1,19 @@
+var NyY VzF;
+uwr = ((VzF and (NyY or VzF) and (NyY or True or NyY or VzF) and True) or NyY 
+or (VzF and (NyY and NyY and VzF))) or VzF or VzF or VzF;
+SyC = uwr and ((NyY or NyY or uwr) and uwr and (uwr and (VzF and NyY))) and VzF 
+and uwr;
+TmN = VzF and (SyC and uwr and ((SyC and VzF) and (VzF and SyC and VzF and SyC) 
+and VzF) and SyC) and (not NyY) and SyC;
+show uwr SyC TmN;
+var JhF vhO;
+NYD = NyY and (not uwr) and vhO and TmN;
+fHj = NyY and (((TmN or JhF) and (JhF or JhF or TmN or VzF) and (vhO and vhO 
+and TmN and uwr)) or (not (True and VzF)) or (vhO or (vhO and SyC and SyC))) 
+and vhO and NyY;
+ihg = (not fHj) or (((JhF and NYD and fHj and VzF) or (TmN and uwr) or NyY or 
+uwr) or JhF or TmN) or uwr or uwr;
+show_ones ihg uwr;
+JyR = (not (uwr or (vhO and NyY) or JhF)) and (JhF or uwr or ((not TmN) or VzF 
+or ihg)) and (NyY or (not vhO));
+

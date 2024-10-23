@@ -1,0 +1,7 @@
+var Wkq Azu GRu;
+MGm = not Azu;
+DaM = not MGm;
+Q_c = not DaM;
+UHX = not MGm;
+show MGm DaM Q_c UHX;
+

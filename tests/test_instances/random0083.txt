@@ -1,0 +1,5 @@
+var PXR nag iII iQT;
+TLR = nag and iII and (not (not iQT)) and (iQT and (nag and (PXR or iII or 
+nag)) and PXR and iII);
+show_ones TLR;
+

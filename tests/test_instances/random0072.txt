@@ -1,0 +1,18 @@
+var eAF Ias xGU Sua;
+eNU = Ias and (False or Ias);
+TEm = xGU or (((eNU and eNU and eNU and eNU) and (eNU or eAF or eNU) and False 
+and False) or Ias) or (eNU and eNU) or eNU;
+gpi = eNU and (not eNU);
+show gpi eNU;
+var yoW K_F;
+vsi = (((xGU and Ias) or (Sua or Ias or Sua or eAF) or gpi) and eAF) or gpi or 
+Ias;
+gCx = (eNU or Ias or vsi or (eAF or (vsi or vsi or eAF) or yoW or Ias)) or xGU 
+or ((not (not vsi)) and gpi) or gpi;
+VJv = eAF and (True and eAF);
+Dxy = not Sua;
+show_ones TEm Dxy gCx vsi gpi;
+var NzG vxt Fhm SNJ AAD;
+show_ones VJv Dxy;
+soZ = not (not vxt);
+

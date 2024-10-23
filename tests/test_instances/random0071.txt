@@ -1,0 +1,4 @@
+var KwB vub boY;
+LTh = not (not vub);
+show_ones LTh;
+

@@ -1,0 +1,14 @@
+var wHp MVy IAl kHU riM;
+Wvs = (((not riM) or (not kHU) or kHU or MVy) or ((not riM) and IAl) or riM or 
+(IAl and (not True))) and (not (IAl or riM or (kHU and kHU) or riM)) and ((MVy 
+or kHU or (not MVy) or (kHU and IAl)) and IAl and IAl and IAl);
+Wrh = Wvs and ((not (MVy and Wvs and Wvs)) and IAl and ((not wHp) or wHp or Wvs 
+or kHU) and riM);
+iWY = Wrh or (((MVy and IAl and False) and Wvs) and ((wHp and kHU and Wvs) or 
+Wvs or (Wvs and kHU and Wvs)) and Wvs and False) or (not (not (not Wrh))) or 
+((not Wrh) or (Wvs and (not IAl) and riM) or (not (wHp or riM or Wvs or wHp)));
+show Wvs Wrh iWY;
+var bPT acB;
+NpW = riM and Wrh;
+show_ones Wvs Wrh iWY NpW;
+

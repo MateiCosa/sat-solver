@@ -1,0 +1,21 @@
+var MDk rqA rjN zzz BuJ;
+uJU = not True;
+ixT = MDk and rjN and (uJU or uJU or zzz) and (uJU or uJU or (not BuJ));
+XWA = not ((uJU and ixT) and BuJ and MDk);
+show_ones uJU ixT XWA;
+var CMe aLt;
+PQL = not ixT;
+show PQL ixT uJU;
+var fMH BBd xbZ;
+LvZ = ((zzz or (BuJ and ixT) or XWA or (CMe or CMe or rqA or XWA)) or (XWA and 
+XWA and aLt)) or ixT or CMe;
+ym_ = xbZ or (MDk or (XWA and (zzz and MDk and LvZ and PQL) and rjN) or (not 
+(XWA or BBd or True)) or ((aLt and ixT and aLt and fMH) and CMe and uJU and 
+(not CMe)));
+show XWA PQL ym_ LvZ LvZ;
+MBn = (rjN or ((not rqA) and ym_) or fMH or ((XWA or aLt or CMe) and ixT)) or 
+ixT;
+RiX = False or (uJU or BuJ or ((uJU and fMH and BBd) and MDk and (aLt and uJU 
+and rjN) and BuJ) or (zzz and PQL and (MBn or MDk))) or uJU or (aLt and (fMH or 
+rjN or (not ixT)) and aLt);
+

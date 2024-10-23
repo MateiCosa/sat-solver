@@ -1,0 +1,9 @@
+var Qcm GLO ZaG aNx EgY;
+TIu = (aNx and ((not aNx) or aNx)) and ZaG and (not ((EgY or True or EgY) or 
+GLO)) and (not EgY);
+feE = TIu or aNx or (not ((TIu and EgY and aNx and TIu) or (TIu and TIu) or aNx 
+or TIu)) or (TIu and aNx and (ZaG or TIu or EgY));
+Pog = not GLO;
+show TIu Pog feE;
+ZUA = TIu and feE and ((not (not TIu)) and Qcm);
+

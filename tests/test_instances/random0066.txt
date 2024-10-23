@@ -1,0 +1,21 @@
+var UmW JNQ Poh BwD;
+tff = BwD and BwD and (not Poh);
+eqt = (not Poh) or Poh or tff;
+ZBG = (not eqt) and eqt and UmW and UmW;
+show tff eqt ZBG;
+var RMz KLR sMC JNh CPw;
+zlS = not UmW;
+cOw = Poh or False;
+tPg = (((not CPw) or (RMz or eqt)) and (not (RMz and Poh and True and tff)) and 
+BwD and RMz) and (UmW or (cOw and (zlS or JNQ) and (JNh and cOw and cOw)));
+BuB = (not (JNQ and eqt and sMC)) or ((not JNh) and tff) or (UmW and Poh) or 
+JNQ;
+show_ones BuB tPg;
+var eUI FcV Nfa;
+kcE = not (tPg or UmW);
+ZGI = sMC and CPw and (sMC or (not (eqt or CPw or Nfa or FcV)) or Nfa or ((BuB 
+and sMC and KLR and CPw) and UmW and (BuB and JNQ and zlS and FcV) and (zlS and 
+tff and JNh and BwD))) and (not ((CPw or UmW) or (cOw and KLR)));
+show cOw ZGI;
+rYo = zlS and FcV;
+

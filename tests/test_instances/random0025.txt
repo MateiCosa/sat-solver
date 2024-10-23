@@ -1,0 +1,4 @@
+var VDV Ymp gAB pbS Jnv;
+goN = VDV or Jnv or Ymp;
+show goN;
+

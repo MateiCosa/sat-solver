@@ -1,0 +1,22 @@
+var fKN lWH pCi;
+KCj = lWH or (not fKN) or (fKN and fKN and pCi);
+_gp = (not KCj) or ((pCi or (KCj and KCj and lWH and KCj)) and ((KCj or pCi or 
+fKN or fKN) and (pCi or fKN or lWH or pCi) and (KCj and KCj)) and KCj);
+Cdi = pCi or ((_gp and (pCi and _gp) and (pCi or fKN or KCj or pCi) and _gp) or 
+lWH or pCi);
+show_ones KCj _gp Cdi;
+var YsE uhL;
+JZ_ = not KCj;
+xGM = False and JZ_ and (not fKN);
+show_ones xGM Cdi JZ_ KCj;
+var r_K vZK Cxw BVF CAB;
+DVP = (((not YsE) and uhL) or (BVF or lWH) or KCj or (not (CAB or lWH or _gp or 
+Cdi))) and ((not (xGM and xGM and Cdi and uhL)) and ((vZK or vZK or Cxw) or 
+(not KCj) or (JZ_ and uhL) or (xGM or KCj or lWH or xGM))) and (not KCj);
+Jjl = Cdi and r_K;
+_FA = (True and uhL) or ((_gp or (not BVF) or r_K) and fKN and (KCj or fKN)) or 
+(lWH and ((fKN or Jjl or pCi or KCj) or Cdi or (Cdi or pCi) or (uhL and uhL and 
+fKN and vZK))) or YsE;
+qVI = _gp or BVF or DVP or ((not (Cdi and BVF and uhL and BVF)) and (not BVF));
+show qVI DVP _FA qVI KCj;
+

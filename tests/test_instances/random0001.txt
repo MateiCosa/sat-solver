@@ -1,0 +1,8 @@
+var qCW yOZ HyW VOO PVn;
+HzY = (VOO and VOO) or HyW or (not (not (yOZ or VOO)));
+ClQ = (VOO or (HzY and HzY and (qCW and HyW and HzY and True)) or (yOZ and VOO 
+and (PVn or HzY or HyW or HyW) and HzY) or HzY) and HzY and (HyW or ((HzY or 
+PVn or VOO or PVn) and yOZ) or VOO);
+SNa = False and ((not (HzY and VOO and VOO)) or qCW) and ClQ and (PVn or VOO);
+show_ones HzY ClQ SNa;
+

@@ -1,0 +1,11 @@
+var xlg oWA aUl ekH Igs;
+RwV = (not aUl) or (not xlg) or (xlg and xlg and (oWA and (oWA and oWA and 
+True) and (aUl or oWA) and aUl) and (xlg or xlg));
+jSu = (not (RwV and aUl and True and (aUl or RwV))) and ((RwV or oWA or (not 
+xlg)) or (not (Igs or ekH))) and xlg and (((RwV and xlg) or (ekH and oWA and 
+aUl and RwV) or (RwV or xlg or Igs or RwV)) or (oWA or (aUl and RwV)) or ((aUl 
+and xlg) and (RwV or Igs or RwV)) or ((RwV and RwV and RwV) or xlg or (not 
+RwV)));
+lHn = not jSu;
+show_ones RwV jSu lHn;
+

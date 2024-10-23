@@ -1,0 +1,15 @@
+var gAS Uy_ ngt;
+das = not (gAS or ngt or gAS or ((ngt or gAS or ngt or gAS) or ngt));
+FwD = not Uy_;
+QOY = FwD and ((not Uy_) and das and ngt);
+xBQ = not False;
+show_ones das xBQ;
+var uLH yxl FVe;
+wmb = not FwD;
+show wmb xBQ;
+var VpL BSI luU xfM;
+jQB = FVe and (yxl and (QOY or yxl) and ngt) and (yxl and FVe);
+Ged = FwD and ((luU and xBQ and (das and FwD and BSI)) and QOY and (VpL or (not 
+ngt) or gAS)) and BSI;
+show jQB das Ged QOY;
+

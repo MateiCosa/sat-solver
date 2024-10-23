@@ -1,0 +1,7 @@
+var jDs jyz;
+ApO = jDs and jDs;
+show ApO;
+var hyn ETR Jtj Nba;
+aPV = not (jDs or hyn or Jtj);
+show ApO aPV;
+
